@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%LenYan!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20LenYan!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=8239CD&center=%C2%A0%E5%81%87&vCenter=%C2%A0%E5%81%87&repeat=%C2%A0%E7%9C%9F&random=%C2%A0%E5%81%87&width=435&lines=I+am+lenyan+%2B+love+programming" />
