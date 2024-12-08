@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=lenyanjgk&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=lenyanjgk&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-<br/>
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=lenyanjgk&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=FF6666,FF9966,FFFF66,66FF66,66FFFF,6666FF,FF66FF&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenyanjgk&hide_title=true&hide_border=true&layout=compact&bg_color=FF99FF,FF99CC,FFFFCC,FFCCCC,FF6666&theme=graywhite&locale=cn" />
+<brbrbrbr/>
 <img img width=="800" src=="https://github-readme-activity-graph.vercel.app/graph?username=lenyanjgk&&theme=github-compact&&hide_border=true&&area=true">
 <brbr/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenyanjgk&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
