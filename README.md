@@ -5,13 +5,46 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=8239CD&center=%C2%A0%E5%81%87&vCenter=%C2%A0%E5%81%87&repeat=%C2%A0%E7%9C%9F&random=%C2%A0%E5%81%87&width=435&lines=I+am+lenyan+%2B+love+programming" />
 </p>
 
+
+<h3 align="center">个人 技能:</h3>
+<p align="center">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  </a>
+</p>
+
 <p align="center">
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=lenyanjgk&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=FF6666,FF9966,FFFF66,66FF66,66FFFF,6666FF,FF66FF&theme=graywhite&locale=cn" />
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenyanjgk&hide_title=true&hide_border=true&layout=compact&bg_color=FF99FF,FF99CC,FFFFCC,FFCCCC,FF6666&theme=graywhite&locale=cn" />
 <brbrbrbr/>
-<img img width=="800" src=="https://github-readme-activity-graph.vercel.app/graph?username=lenyanjgk&&theme=github-compact&&hide_border=true&&area=true">
-<brbr/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenyanjgk&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img width=="800" src=="https://github-readme-activity-graph.vercel.app/graph?username=lenyanjgk&&theme=github-compact&&hide_border=true&&area=true">
 <brbr/>
 </p>
 
