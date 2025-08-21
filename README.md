@@ -7,7 +7,7 @@
 - 👭微信：lenyanAK 备注来意
 
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=8239CD&center=%C2%A0%E5%81%87&vCenter=%C2%A0%E5%81%87&repeat=%C2%A0%E7%9C%9F&random=%C2%A0%E5%81%87&width=435&lines=Motto:%20Stay%20hungry%20stay%20foolish." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=8239CD&center=%C2%A0%E5%81%87&vCenter=%C2%A0%E5%81%87&repeat=%C2%A0%E7%9C%9F&random=%C2%A0%E5%81%87&width=435&lines=Motto:%20Stay%20hungry,%20stay%20foolish." />
 </p>
 
 <h3 align="left">个人技能 🛠️</h3>
