@@ -3,14 +3,12 @@
 - 🌹你好！我是 **lenyan** 🙋‍♂️，一名热爱技术、乐于分享的程序员。
 - 📖博客：[CSDN📚](https://blog.csdn.net/jgk666666)（16W+阅读）、[编程导航🌟](https://www.codefather.cn/user/1738833787455823874)（知识分享和日常记录）
 - ⚔️实践项目：<a href="https://github.com/lenyanjgk/lendada" target="_blank">lendada-智慧答应用答题平台</a>  | <a href="https://github.com/lenyanjgk/len-ai-agent" target="_blank">lenAI-超级智能体</a> | <a href="https://github.com/lenyanjgk/lenrpc" target="_blank">lenRPC-轻量级框架</a> | <a href="https://github.com/lenyanjgk/cloudmusic" target="_blank">韵动轨迹-云音乐</a> |  <a href="https://github.com/lenyanjgk?tab=repositories" target="_blank">更多开源项目</a>
-
 - 🧩算法分享：<a href="https://github.com/lenyanjgk/leetcode-solution" target="_blank">LeetCode-len解题仓库</a> | <a href="https://blog.csdn.net/jgk666666/category_12430743.html" target="_blank">CSDN：LeetCode专题</a> | <a href="https://blog.csdn.net/jgk666666/category_12435114.html" target="_blank">CSDN：蓝桥杯专题</a> | <a href="https://blog.csdn.net/jgk666666/article/details/137209476" target="_blank">lenyan-算法笔记</a>
+- 👭微信：lenyanAK 备注来意
 
 <p align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=8239CD&center=%C2%A0%E5%81%87&vCenter=%C2%A0%E5%81%87&repeat=%C2%A0%E7%9C%9F&random=%C2%A0%E5%81%87&width=435&lines=Motto:%20Stay%20hungry%20stay%20foolish." />
 </p>
-
-
 
 <h3 align="left">个人技能 🛠️</h3>
 <p align="left">
