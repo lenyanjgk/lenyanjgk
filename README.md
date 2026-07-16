@@ -1,10 +1,9 @@
 ## 我是lenyan ❄️
 
 - 🌹你好！我是 **lenyan** 🙋‍♂️，一名热爱技术、乐于分享的程序员。
-- 📖博客：[CSDN📚](https://blog.csdn.net/jgk666666)（17W+阅读）、[编程导航🌟](https://www.codefather.cn/user/1738833787455823874)（知识分享和日常记录）
+- 📖博客：[CSDN📚](https://blog.csdn.net/jgk666666)（23W+阅读）、公众号:[程序员凯凯](https://mp.weixin.qq.com/s/utI7LVBN0JyXdZyqhRA_ww)、[编程导航🌟](https://www.codefather.cn/user/1738833787455823874)（知识分享和日常记录）
 - ⚔️实践项目：<a href="https://github.com/lenyanjgk/lendada" target="_blank">lendada-智慧答应用答题平台</a>  | <a href="https://github.com/lenyanjgk/len-ai-agent" target="_blank">lenAI-超级智能体</a> | <a href="https://github.com/lenyanjgk/lenrpc" target="_blank">lenRPC-轻量级框架</a> | <a href="https://github.com/lenyanjgk/cloudmusic" target="_blank">韵动轨迹-云音乐</a> |  <a href="https://github.com/lenyanjgk?tab=repositories" target="_blank">更多开源项目</a>
 - 🧩算法分享：<a href="https://github.com/lenyanjgk/leetcode-solution" target="_blank">LeetCode-len解题仓库</a> | <a href="https://blog.csdn.net/jgk666666/category_12430743.html" target="_blank">CSDN：LeetCode专题</a> | <a href="https://blog.csdn.net/jgk666666/category_12435114.html" target="_blank">CSDN：蓝桥杯专题</a> | <a href="https://blog.csdn.net/jgk666666/article/details/137209476" target="_blank">lenyan-算法笔记</a>
-- 👭微信：lenyanAK 备注来意 （❗最近毕业比较忙，暂时不做答题服务）
 
 <p align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=8239CD&center=%C2%A0%E5%81%87&vCenter=%C2%A0%E5%81%87&repeat=%C2%A0%E7%9C%9F&random=%C2%A0%E5%81%87&width=435&lines=Motto:%20Stay%20hungry,%20stay%20foolish." />
@@ -57,6 +56,5 @@
 <p align="left">
 <a href="https://github.com/lenyanjgk"><img src="https://img.shields.io/badge/GitHub-lenyanjgk-blue?logo=github" /></a>
 <a href="https://blog.csdn.net/jgk666666"><img src="https://img.shields.io/badge/CSDN-LenYan-red?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAB+FBMVEUAAABqMy7wroeAUEvuso1vOTNwOzbxt5WKYFyniYm/qKLe3s1sNTBsNjGQVkhvODR6Rj7ip4XutZOCU07wtpXxupnst5eKXFmJXlrwu5qKbWryv6Hzx62gfXuwiYb44tNvODNWNSuKUUbwr4iKUkXwsImCVUZ3Qjt5UkN3QjvwsYtGLSfws454SERyPzp4RD/ws4/ws49xPzvvtI/xtJBPODJ7S0Z7SkXWnIFiTkbVnIGCU0/ps5TxvaDwvqGSaWWSaGiOaGSTb2uPamXzx7HxyrCjhHrwrYVqMi3wrITuq4RrMy63eF9jPS/Cg2fupoLqqIHopoDfn3rXlnXAfmSwcluNWkfioHzmkXrihXXccW2zdFypbFehZlKFWUVzSTlwSTh7QThuNS9VMyjto4HlpH7ionzjh3bXmXXOkG/Mi22tb1l/UUB9TT15TDxtRzZcNytZNypRMCVPLiTrnn/cnXnZm3fZmHbhgXTddG7IiGvMgGrPY2S2gGK+e2K1dl7CXV6uel28WlqocFika1WnalWdbFOaYk6dYE6SYUySVkaQVUaIVkSCV0OHVEOJTkF4UD2CRTxmQTJaLCZXKyVNKyJJJR9EIx0+IRrTknLffXLabWzZbGzFi2u5emGucFqicVeXaFCSXUp1STpdOy1hNyxdMilXMCfoEl0hAAAAR3RSTlMA/vqLn+7meVAWDgX59/X13LSGgoF7c2hdVlJQLSklEff18/Ly7+zs5ubi4djX1szHxMG5uLSjnZaJhn1pXldEPT05Ny4nGbaUVn8AAAIPSURBVDjLvdNFlxpBEMDxBgLsknX3jbu7e1I1wzC4OyzusO7u7nFPvmYGwr4HWZJc8vI71at/H/rQTf65g3/pReclTX/qj0rKL175fW4ViBCRd0HQWjC/uFGCWaU3i/f3hyLMIXq873alKJVma3oqL8rvTw7Ns+qeALOCuMIEetTsvPBpbpdUsBSk0SMjdGag2ApJzgEBC4qxJdtQJtJDNtuYAjSCvfpMfKeMUslkOp3MoQTwxNLTup4uuyVuSfcqPoTeUfbIicN2JqoDsEW1p9zh6CowIeDXEXIfaMNasHtr+fb1nWXG7fEmGXvT2e2ZlCq4ZqChmVwC46Ar+DYe2dndjAzHk6nEsGx7d+NTPNDvGvTBVXKGMo3ie3/K8n3jm0WT6PK7NTNbm1/Nya4QjvbBOXIZjOPoVK4vmq1mzdwSUKtzGq2VWYwpnTjug2vkAdADiFa12z45EZZ5AVRfwhOTnxPdVsQBit9MiJivkqJ0Vv0x5vig1FOU3jPtcEz7Z7mlil9LOC33TiOiUwEAL139rEvNDQontzpZ95z8VI2IC8BRar16rSI9LXCrarKnWIhogTwWRGHOo2jgoRnA4Ms0ymgA0CKvgeS4y5sC6DAZ5UB19PbJAaZ4ApKn/gjNnXj1xmR63ct1+lg9+UVbJXDknZ1y4FS2Ffgytcch62hN4f/T3lhzgFPV2E7+qx9xsqq+PsbsOwAAAABJRU5ErkJggg==" /></a>
-<img src="https://img.shields.io/badge/QQ-3482565966-green?logo=tencentqq" />
 </p>
 
