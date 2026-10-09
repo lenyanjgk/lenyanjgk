@@ -1,16 +1,11 @@
 name: Update profile assets
 
-# 每天重新拉一次公开数据并重绘 README 里的自绘 SVG。
-# 这样「数据与轨迹」永远是最新的，且不依赖任何第三方图床。
+# 每月 1 号重新拉一次公开数据并重绘 README 里的自绘 SVG。
+# 这样「数据与轨迹」每月刷新一次，且不依赖任何第三方图床。
 on:
   schedule:
-    - cron: "23 4 * * *" # 每天 04:23 UTC（北京时间 12:23）
+    - cron: "23 4 1 * *" # 每月 1 号 04:23 UTC（北京时间 12:23）
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - "tools/**"
-      - ".github/workflows/update-assets.yml"
 
 permissions:
   contents: write
@@ -38,7 +33,8 @@ jobs:
       - name: Rebuild SVG assets
         run: python tools/make_assets.py
 
-      # README 也是生成的：新增仓库会被自动带进主页，不用手改
+      # README 也是生成的：新增仓库会被每月定时运行的 Action 自动带进主页，不用手改。
+      # 如需调整文案或徽章样式，请修改 tools/make_readme.py 里的常量。
       - name: Rebuild README
         run: python tools/make_readme.py
 
