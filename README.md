@@ -12,6 +12,16 @@
   <source media="(prefers-color-scheme: light)" srcset="assets/typing-light.svg">
   <img src="assets/typing-dark.svg" alt="正在做的事" width="100%">
 </picture>
+
+<br>
+
+![Java](https://img.shields.io/badge/Java-F0EADA?style=for-the-badge&logo=openjdk&logoColor=8A6E14)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F0EADA?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Vue](https://img.shields.io/badge/Vue_3-F0EADA?style=for-the-badge&logo=vuedotjs&logoColor=3AA876)
+![AI](https://img.shields.io/badge/Spring_AI-F0EADA?style=for-the-badge&logo=langchain&logoColor=8A6E14)
+
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
@@ -41,8 +51,6 @@
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=lenyanjgk&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=FF6666,FF9966,FFFF66,66FF66,66FFFF,6666FF,FF66FF&theme=graywhite&locale=cn" />
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenyanjgk&hide_title=true&hide_border=true&layout=compact&bg_color=FF99FF,FF99CC,FFFFCC,FFCCCC,FF6666&theme=graywhite&locale=cn" />
 <brbrbrbr/>
-<img width=="800" src=="https://github-readme-activity-graph.vercel.app/graph?username=lenyanjgk&&theme=github-compact&&hide_border=true&&area=true">
-<brbr/>
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
@@ -58,38 +66,6 @@
   <img src="assets/hdr-stack-dark.svg" alt="技术栈" width="100%">
 </picture>
 
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/lang-dark.svg">
@@ -98,11 +74,62 @@
 </picture>
 
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**后端 · 主力**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Vert.x](https://img.shields.io/badge/Vert.x-782A90?style=flat-square&logo=vert.x&logoColor=white)
+
+</td>
+
+<td valign="top" width="50%">
+
+**前端 · 工程**
+
+![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![UmiJS](https://img.shields.io/badge/UmiJS-791BE0?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="2">
+
+**通用 · 工具链**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+
+</td>
+
+</tr>
+</table>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hdr-projects-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hdr-projects-light.svg">
   <img src="assets/hdr-projects-dark.svg" alt="在做的东西" width="100%">
 </picture>
+
+
 <p align="center">
   <a href="https://github.com/lenyanjgk/len-ai-agent">
     <picture>
@@ -112,6 +139,8 @@
     </picture>
   </a>
 </p>
+
+
 <p align="center">
   <a href="https://github.com/lenyanjgk/lendada">
     <picture>
@@ -121,6 +150,8 @@
     </picture>
   </a>
 </p>
+
+
 <p align="center">
   <a href="https://github.com/lenyanjgk/lenrpc">
     <picture>
@@ -130,6 +161,8 @@
     </picture>
   </a>
 </p>
+
+
 <p align="center">
   <a href="https://github.com/lenyanjgk/leetcode-solution">
     <picture>
@@ -139,6 +172,8 @@
     </picture>
   </a>
 </p>
+
+
 <p align="center">
   <a href="https://github.com/lenyanjgk/zhidangtong">
     <picture>
@@ -148,6 +183,8 @@
     </picture>
   </a>
 </p>
+
+
 <p align="center">
   <a href="https://github.com/lenyanjgk/cloudmusic">
     <picture>
@@ -164,11 +201,15 @@
   <source media="(prefers-color-scheme: light)" srcset="assets/hdr-stats-light.svg">
   <img src="assets/hdr-stats-dark.svg" alt="数据与轨迹" width="100%">
 </picture>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
   <img src="assets/stats-dark.svg" alt="数据概览" width="100%">
 </picture>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg">
@@ -181,6 +222,8 @@
   <source media="(prefers-color-scheme: light)" srcset="assets/hdr-focus-light.svg">
   <img src="assets/hdr-focus-dark.svg" alt="方向与投入" width="100%">
 </picture>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/focus-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/focus-light.svg">
@@ -193,6 +236,8 @@
   <source media="(prefers-color-scheme: light)" srcset="assets/hdr-links-light.svg">
   <img src="assets/hdr-links-dark.svg" alt="找到我" width="100%">
 </picture>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/links-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/links-light.svg">
