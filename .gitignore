@@ -1,0 +1,17 @@
+# 本地预览产物（刻意不提交）
+preview/
+
+# 开发期脚手架：种子脚本用的贡献缓存，正式数据以 fetch_data.py 输出为准
+data/_contrib_cache.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,2431 @@
+{
+  "generated_at": "2026-10-08T12:45:30Z",
+  "user": {
+    "login": "lenyanjgk",
+    "avatar": "https://avatars.githubusercontent.com/u/lenyanjgk",
+    "followers": 14,
+    "following": 1,
+    "public_repos": 15,
+    "created_at": "2023-03-18T02:22:43Z",
+    "location": "china guangzhou",
+    "blog": "",
+    "bio": "Java 全栈工程师，热爱编程，专注 LeetCode 算法题解与项目分享。"
+  },
+  "repos": [
+    {
+      "name": "len-ai-agent",
+      "lang": "Java",
+      "stars": 130,
+      "forks": 25,
+      "license": null,
+      "pushed_at": "2025-06-22T00:00:00Z",
+      "topics": [
+        "java",
+        "spring-boot",
+        "spring-ai",
+        "ai-agent",
+        "llm"
+      ],
+      "desc": "基于 Spring Boot 3.4.5 + Java 21 + Spring AI 构建的智能体平台",
+      "url": "https://github.com/lenyanjgk/len-ai-agent",
+      "langs": {},
+      "empty": false
+    },
+    {
+      "name": "lendada",
+      "lang": "Java",
+      "stars": 19,
+      "forks": 0,
+      "license": null,
+      "pushed_at": "2025-05-01T00:00:00Z",
+      "topics": [
+        "vue3",
+        "spring-boot",
+        "redis",
+        "ai",
+        "exam"
+      ],
+      "desc": "基于 Vue 3 + Spring Boot + Redis + AI 的智慧答题平台",
+      "url": "https://github.com/lenyanjgk/lendada",
+      "langs": {},
+      "empty": false
+    },
+    {
+      "name": "ClaudeCode",
+      "lang": "HTML",
+      "stars": 6,
+      "forks": 1,
+      "license": null,
+      "pushed_at": "2026-09-01T00:00:00Z",
+      "topics": [
+        "claude-code",
+        "docs"
+      ],
+      "desc": "ClaudeCode 知识学习文档",
+      "url": "https://github.com/lenyanjgk/ClaudeCode",
+      "langs": {},
+      "empty": false
+    },
+    {
+      "name": "lenrpc",
+      "lang": "Java",
+      "stars": 2,
+      "forks": 0,
+      "license": null,
+      "pushed_at": "2025-03-10T00:00:00Z",
+      "topics": [
+        "rpc",
+        "vertx",
+        "java",
+        "load-balance",
+        "service-discovery"
+      ],
+      "desc": "基于 Vert.x + Java 8 的轻量级 RPC 框架",
+      "url": "https://github.com/lenyanjgk/lenrpc",
+      "langs": {},
+      "empty": false
+    },
+    {
+      "name": "leetcode-solution",
+      "lang": "Java",
+      "stars": 1,
+      "forks": 1,
+      "license": null,
+      "pushed_at": "2025-08-06T00:00:00Z",
+      "topics": [
+        "leetcode",
+        "algorithm",
+        "java",
+        "data-structure"
+      ],
+      "desc": "Leetcode Solution lenyan 由 lenyan 打造的算法题解仓库",
+      "url": "https://github.com/lenyanjgk/leetcode-solution",
+      "langs": {},
+      "empty": false
+    },
+    {
+      "name": "zhidangtong",
+      "lang": "Python",
+      "stars": 1,
+      "forks": 0,
+      "license": null,
+      "pushed_at": "2026-04-07T00:00:00Z",
+      "topics": [
+        "rag",
+        "langgraph",
+        "fastapi",
+        "llm",
+        "knowledge-base"
+      ],
+      "desc": "智档通：基于 LangGraph+FastAPI 构建的企业级 RAG 知识库",
+      "url": "https://github.com/lenyanjgk/zhidangtong",
+      "langs": {},
+      "empty": false
+    },
+    {
+      "name": "cloudmusic",
+      "lang": "JavaScript",
+      "stars": 1,
+      "forks": 0,
+      "license": null,
+      "pushed_at": "2024-11-20T00:00:00Z",
+      "topics": [
+        "wechat-miniprogram",
+        "cloud-development",
+        "music"
+      ],
+      "desc": "基于微信小程序框架 + 云开发技术的音乐应用",
+      "url": "https://github.com/lenyanjgk/cloudmusic",
+      "langs": {},
+      "empty": false
+    },
+    {
+      "name": "cat-ai-robot",
+      "lang": "Vue",
+      "stars": 1,
+      "forks": 1,
+      "license": null,
+      "pushed_at": "2026-07-16T00:00:00Z",
+      "topics": [
+        "vue",
+        "ai",
+        "roleplay"
+      ],
+      "desc": "AI 角色扮演网页开发仓库",
+      "url": "https://github.com/lenyanjgk/cat-ai-robot",
+      "langs": {},
+      "empty": false
+    },
+    {
+      "name": "DesignPattern",
+      "lang": "Java",
+      "stars": 1,
+      "forks": 0,
+      "license": null,
+      "pushed_at": "2024-05-01T00:00:00Z",
+      "topics": [
+        "design-pattern",
+        "java"
+      ],
+      "desc": "设计模式学习",
+      "url": "https://github.com/lenyanjgk/DesignPattern",
+      "langs": {},
+      "empty": false
+    },
+    {
+      "name": "Warm-delivery-learning",
+      "lang": "Java",
+      "stars": 1,
+      "forks": 0,
+      "license": null,
+      "pushed_at": "2024-08-01T00:00:00Z",
+      "topics": [
+        "vue",
+        "spring-boot",
+        "wechat-miniprogram"
+      ],
+      "desc": "基于 Vue.js + Spring Boot + Redis + 微信小程序 + Nginx 的外卖项目",
+      "url": "https://github.com/lenyanjgk/Warm-delivery-learning",
+      "langs": {},
+      "empty": false
+    },
+    {
+      "name": "lenyan-skills",
+      "lang": "",
+      "stars": 0,
+      "forks": 0,
+      "license": null,
+      "pushed_at": "2026-02-28T00:00:00Z",
+      "topics": [],
+      "desc": "lenyan 使用的 skills 备份",
+      "empty": true,
+      "url": "https://github.com/lenyanjgk/lenyan-skills",
+      "langs": {}
+    }
+  ],
+  "contributions": {
+    "total": 11,
+    "days": [
+      {
+        "date": "2025-10-05",
+        "level": 0,
+        "id": "contribution-day-component-0-0",
+        "count": 0
+      },
+      {
+        "date": "2025-10-06",
+        "level": 0,
+        "id": "contribution-day-component-1-0",
+        "count": 0
+      },
+      {
+        "date": "2025-10-07",
+        "level": 0,
+        "id": "contribution-day-component-2-0",
+        "count": 0
+      },
+      {
+        "date": "2025-10-08",
+        "level": 0,
+        "id": "contribution-day-component-3-0",
+        "count": 0
+      },
+      {
+        "date": "2025-10-09",
+        "level": 0,
+        "id": "contribution-day-component-4-0",
+        "count": 0
+      },
+      {
+        "date": "2025-10-10",
+        "level": 0,
+        "id": "contribution-day-component-5-0",
+        "count": 0
+      },
+      {
+        "date": "2025-10-11",
+        "level": 0,
+        "id": "contribution-day-component-6-0",
+        "count": 0
+      },
+      {
+        "date": "2025-10-12",
+        "level": 0,
+        "id": "contribution-day-component-0-1",
+        "count": 0
+      },
+      {
+        "date": "2025-10-13",
+        "level": 0,
+        "id": "contribution-day-component-1-1",
+        "count": 0
+      },
+      {
+        "date": "2025-10-14",
+        "level": 0,
+        "id": "contribution-day-component-2-1",
+        "count": 0
+      },
+      {
+        "date": "2025-10-15",
+        "level": 2,
+        "id": "contribution-day-component-3-1",
+        "count": 1
+      },
+      {
+        "date": "2025-10-16",
+        "level": 0,
+        "id": "contribution-day-component-4-1",
+        "count": 0
+      },
+      {
+        "date": "2025-10-17",
+        "level": 0,
+        "id": "contribution-day-component-5-1",
+        "count": 0
+      },
+      {
+        "date": "2025-10-18",
+        "level": 0,
+        "id": "contribution-day-component-6-1",
+        "count": 0
+      },
+      {
+        "date": "2025-10-19",
+        "level": 0,
+        "id": "contribution-day-component-0-2",
+        "count": 0
+      },
+      {
+        "date": "2025-10-20",
+        "level": 0,
+        "id": "contribution-day-component-1-2",
+        "count": 0
+      },
+      {
+        "date": "2025-10-21",
+        "level": 0,
+        "id": "contribution-day-component-2-2",
+        "count": 0
+      },
+      {
+        "date": "2025-10-22",
+        "level": 0,
+        "id": "contribution-day-component-3-2",
+        "count": 0
+      },
+      {
+        "date": "2025-10-23",
+        "level": 0,
+        "id": "contribution-day-component-4-2",
+        "count": 0
+      },
+      {
+        "date": "2025-10-24",
+        "level": 0,
+        "id": "contribution-day-component-5-2",
+        "count": 0
+      },
+      {
+        "date": "2025-10-25",
+        "level": 0,
+        "id": "contribution-day-component-6-2",
+        "count": 0
+      },
+      {
+        "date": "2025-10-26",
+        "level": 0,
+        "id": "contribution-day-component-0-3",
+        "count": 0
+      },
+      {
+        "date": "2025-10-27",
+        "level": 0,
+        "id": "contribution-day-component-1-3",
+        "count": 0
+      },
+      {
+        "date": "2025-10-28",
+        "level": 0,
+        "id": "contribution-day-component-2-3",
+        "count": 0
+      },
+      {
+        "date": "2025-10-29",
+        "level": 0,
+        "id": "contribution-day-component-3-3",
+        "count": 0
+      },
+      {
+        "date": "2025-10-30",
+        "level": 0,
+        "id": "contribution-day-component-4-3",
+        "count": 0
+      },
+      {
+        "date": "2025-10-31",
+        "level": 0,
+        "id": "contribution-day-component-5-3",
+        "count": 0
+      },
+      {
+        "date": "2025-11-01",
+        "level": 0,
+        "id": "contribution-day-component-6-3",
+        "count": 0
+      },
+      {
+        "date": "2025-11-02",
+        "level": 0,
+        "id": "contribution-day-component-0-4",
+        "count": 0
+      },
+      {
+        "date": "2025-11-03",
+        "level": 0,
+        "id": "contribution-day-component-1-4",
+        "count": 0
+      },
+      {
+        "date": "2025-11-04",
+        "level": 0,
+        "id": "contribution-day-component-2-4",
+        "count": 0
+      },
+      {
+        "date": "2025-11-05",
+        "level": 0,
+        "id": "contribution-day-component-3-4",
+        "count": 0
+      },
+      {
+        "date": "2025-11-06",
+        "level": 0,
+        "id": "contribution-day-component-4-4",
+        "count": 0
+      },
+      {
+        "date": "2025-11-07",
+        "level": 0,
+        "id": "contribution-day-component-5-4",
+        "count": 0
+      },
+      {
+        "date": "2025-11-08",
+        "level": 0,
+        "id": "contribution-day-component-6-4",
+        "count": 0
+      },
+      {
+        "date": "2025-11-09",
+        "level": 0,
+        "id": "contribution-day-component-0-5",
+        "count": 0
+      },
+      {
+        "date": "2025-11-10",
+        "level": 0,
+        "id": "contribution-day-component-1-5",
+        "count": 0
+      },
+      {
+        "date": "2025-11-11",
+        "level": 0,
+        "id": "contribution-day-component-2-5",
+        "count": 0
+      },
+      {
+        "date": "2025-11-12",
+        "level": 0,
+        "id": "contribution-day-component-3-5",
+        "count": 0
+      },
+      {
+        "date": "2025-11-13",
+        "level": 0,
+        "id": "contribution-day-component-4-5",
+        "count": 0
+      },
+      {
+        "date": "2025-11-14",
+        "level": 0,
+        "id": "contribution-day-component-5-5",
+        "count": 0
+      },
+      {
+        "date": "2025-11-15",
+        "level": 0,
+        "id": "contribution-day-component-6-5",
+        "count": 0
+      },
+      {
+        "date": "2025-11-16",
+        "level": 0,
+        "id": "contribution-day-component-0-6",
+        "count": 0
+      },
+      {
+        "date": "2025-11-17",
+        "level": 0,
+        "id": "contribution-day-component-1-6",
+        "count": 0
+      },
+      {
+        "date": "2025-11-18",
+        "level": 0,
+        "id": "contribution-day-component-2-6",
+        "count": 0
+      },
+      {
+        "date": "2025-11-19",
+        "level": 0,
+        "id": "contribution-day-component-3-6",
+        "count": 0
+      },
+      {
+        "date": "2025-11-20",
+        "level": 0,
+        "id": "contribution-day-component-4-6",
+        "count": 0
+      },
+      {
+        "date": "2025-11-21",
+        "level": 0,
+        "id": "contribution-day-component-5-6",
+        "count": 0
+      },
+      {
+        "date": "2025-11-22",
+        "level": 0,
+        "id": "contribution-day-component-6-6",
+        "count": 0
+      },
+      {
+        "date": "2025-11-23",
+        "level": 0,
+        "id": "contribution-day-component-0-7",
+        "count": 0
+      },
+      {
+        "date": "2025-11-24",
+        "level": 0,
+        "id": "contribution-day-component-1-7",
+        "count": 0
+      },
+      {
+        "date": "2025-11-25",
+        "level": 0,
+        "id": "contribution-day-component-2-7",
+        "count": 0
+      },
+      {
+        "date": "2025-11-26",
+        "level": 0,
+        "id": "contribution-day-component-3-7",
+        "count": 0
+      },
+      {
+        "date": "2025-11-27",
+        "level": 0,
+        "id": "contribution-day-component-4-7",
+        "count": 0
+      },
+      {
+        "date": "2025-11-28",
+        "level": 0,
+        "id": "contribution-day-component-5-7",
+        "count": 0
+      },
+      {
+        "date": "2025-11-29",
+        "level": 0,
+        "id": "contribution-day-component-6-7",
+        "count": 0
+      },
+      {
+        "date": "2025-11-30",
+        "level": 0,
+        "id": "contribution-day-component-0-8",
+        "count": 0
+      },
+      {
+        "date": "2025-12-01",
+        "level": 0,
+        "id": "contribution-day-component-1-8",
+        "count": 0
+      },
+      {
+        "date": "2025-12-02",
+        "level": 0,
+        "id": "contribution-day-component-2-8",
+        "count": 0
+      },
+      {
+        "date": "2025-12-03",
+        "level": 0,
+        "id": "contribution-day-component-3-8",
+        "count": 0
+      },
+      {
+        "date": "2025-12-04",
+        "level": 0,
+        "id": "contribution-day-component-4-8",
+        "count": 0
+      },
+      {
+        "date": "2025-12-05",
+        "level": 0,
+        "id": "contribution-day-component-5-8",
+        "count": 0
+      },
+      {
+        "date": "2025-12-06",
+        "level": 0,
+        "id": "contribution-day-component-6-8",
+        "count": 0
+      },
+      {
+        "date": "2025-12-07",
+        "level": 0,
+        "id": "contribution-day-component-0-9",
+        "count": 0
+      },
+      {
+        "date": "2025-12-08",
+        "level": 0,
+        "id": "contribution-day-component-1-9",
+        "count": 0
+      },
+      {
+        "date": "2025-12-09",
+        "level": 0,
+        "id": "contribution-day-component-2-9",
+        "count": 0
+      },
+      {
+        "date": "2025-12-10",
+        "level": 0,
+        "id": "contribution-day-component-3-9",
+        "count": 0
+      },
+      {
+        "date": "2025-12-11",
+        "level": 0,
+        "id": "contribution-day-component-4-9",
+        "count": 0
+      },
+      {
+        "date": "2025-12-12",
+        "level": 0,
+        "id": "contribution-day-component-5-9",
+        "count": 0
+      },
+      {
+        "date": "2025-12-13",
+        "level": 0,
+        "id": "contribution-day-component-6-9",
+        "count": 0
+      },
+      {
+        "date": "2025-12-14",
+        "level": 0,
+        "id": "contribution-day-component-0-10",
+        "count": 0
+      },
+      {
+        "date": "2025-12-15",
+        "level": 0,
+        "id": "contribution-day-component-1-10",
+        "count": 0
+      },
+      {
+        "date": "2025-12-16",
+        "level": 0,
+        "id": "contribution-day-component-2-10",
+        "count": 0
+      },
+      {
+        "date": "2025-12-17",
+        "level": 0,
+        "id": "contribution-day-component-3-10",
+        "count": 0
+      },
+      {
+        "date": "2025-12-18",
+        "level": 0,
+        "id": "contribution-day-component-4-10",
+        "count": 0
+      },
+      {
+        "date": "2025-12-19",
+        "level": 0,
+        "id": "contribution-day-component-5-10",
+        "count": 0
+      },
+      {
+        "date": "2025-12-20",
+        "level": 0,
+        "id": "contribution-day-component-6-10",
+        "count": 0
+      },
+      {
+        "date": "2025-12-21",
+        "level": 0,
+        "id": "contribution-day-component-0-11",
+        "count": 0
+      },
+      {
+        "date": "2025-12-22",
+        "level": 0,
+        "id": "contribution-day-component-1-11",
+        "count": 0
+      },
+      {
+        "date": "2025-12-23",
+        "level": 0,
+        "id": "contribution-day-component-2-11",
+        "count": 0
+      },
+      {
+        "date": "2025-12-24",
+        "level": 0,
+        "id": "contribution-day-component-3-11",
+        "count": 0
+      },
+      {
+        "date": "2025-12-25",
+        "level": 0,
+        "id": "contribution-day-component-4-11",
+        "count": 0
+      },
+      {
+        "date": "2025-12-26",
+        "level": 0,
+        "id": "contribution-day-component-5-11",
+        "count": 0
+      },
+      {
+        "date": "2025-12-27",
+        "level": 0,
+        "id": "contribution-day-component-6-11",
+        "count": 0
+      },
+      {
+        "date": "2025-12-28",
+        "level": 0,
+        "id": "contribution-day-component-0-12",
+        "count": 0
+      },
+      {
+        "date": "2025-12-29",
+        "level": 0,
+        "id": "contribution-day-component-1-12",
+        "count": 0
+      },
+      {
+        "date": "2025-12-30",
+        "level": 0,
+        "id": "contribution-day-component-2-12",
+        "count": 0
+      },
+      {
+        "date": "2025-12-31",
+        "level": 0,
+        "id": "contribution-day-component-3-12",
+        "count": 0
+      },
+      {
+        "date": "2026-01-01",
+        "level": 0,
+        "id": "contribution-day-component-4-12",
+        "count": 0
+      },
+      {
+        "date": "2026-01-02",
+        "level": 0,
+        "id": "contribution-day-component-5-12",
+        "count": 0
+      },
+      {
+        "date": "2026-01-03",
+        "level": 0,
+        "id": "contribution-day-component-6-12",
+        "count": 0
+      },
+      {
+        "date": "2026-01-04",
+        "level": 0,
+        "id": "contribution-day-component-0-13",
+        "count": 0
+      },
+      {
+        "date": "2026-01-05",
+        "level": 0,
+        "id": "contribution-day-component-1-13",
+        "count": 0
+      },
+      {
+        "date": "2026-01-06",
+        "level": 0,
+        "id": "contribution-day-component-2-13",
+        "count": 0
+      },
+      {
+        "date": "2026-01-07",
+        "level": 0,
+        "id": "contribution-day-component-3-13",
+        "count": 0
+      },
+      {
+        "date": "2026-01-08",
+        "level": 0,
+        "id": "contribution-day-component-4-13",
+        "count": 0
+      },
+      {
+        "date": "2026-01-09",
+        "level": 0,
+        "id": "contribution-day-component-5-13",
+        "count": 0
+      },
+      {
+        "date": "2026-01-10",
+        "level": 0,
+        "id": "contribution-day-component-6-13",
+        "count": 0
+      },
+      {
+        "date": "2026-01-11",
+        "level": 0,
+        "id": "contribution-day-component-0-14",
+        "count": 0
+      },
+      {
+        "date": "2026-01-12",
+        "level": 0,
+        "id": "contribution-day-component-1-14",
+        "count": 0
+      },
+      {
+        "date": "2026-01-13",
+        "level": 0,
+        "id": "contribution-day-component-2-14",
+        "count": 0
+      },
+      {
+        "date": "2026-01-14",
+        "level": 0,
+        "id": "contribution-day-component-3-14",
+        "count": 0
+      },
+      {
+        "date": "2026-01-15",
+        "level": 0,
+        "id": "contribution-day-component-4-14",
+        "count": 0
+      },
+      {
+        "date": "2026-01-16",
+        "level": 0,
+        "id": "contribution-day-component-5-14",
+        "count": 0
+      },
+      {
+        "date": "2026-01-17",
+        "level": 0,
+        "id": "contribution-day-component-6-14",
+        "count": 0
+      },
+      {
+        "date": "2026-01-18",
+        "level": 0,
+        "id": "contribution-day-component-0-15",
+        "count": 0
+      },
+      {
+        "date": "2026-01-19",
+        "level": 0,
+        "id": "contribution-day-component-1-15",
+        "count": 0
+      },
+      {
+        "date": "2026-01-20",
+        "level": 0,
+        "id": "contribution-day-component-2-15",
+        "count": 0
+      },
+      {
+        "date": "2026-01-21",
+        "level": 0,
+        "id": "contribution-day-component-3-15",
+        "count": 0
+      },
+      {
+        "date": "2026-01-22",
+        "level": 0,
+        "id": "contribution-day-component-4-15",
+        "count": 0
+      },
+      {
+        "date": "2026-01-23",
+        "level": 0,
+        "id": "contribution-day-component-5-15",
+        "count": 0
+      },
+      {
+        "date": "2026-01-24",
+        "level": 0,
+        "id": "contribution-day-component-6-15",
+        "count": 0
+      },
+      {
+        "date": "2026-01-25",
+        "level": 0,
+        "id": "contribution-day-component-0-16",
+        "count": 0
+      },
+      {
+        "date": "2026-01-26",
+        "level": 0,
+        "id": "contribution-day-component-1-16",
+        "count": 0
+      },
+      {
+        "date": "2026-01-27",
+        "level": 0,
+        "id": "contribution-day-component-2-16",
+        "count": 0
+      },
+      {
+        "date": "2026-01-28",
+        "level": 0,
+        "id": "contribution-day-component-3-16",
+        "count": 0
+      },
+      {
+        "date": "2026-01-29",
+        "level": 0,
+        "id": "contribution-day-component-4-16",
+        "count": 0
+      },
+      {
+        "date": "2026-01-30",
+        "level": 0,
+        "id": "contribution-day-component-5-16",
+        "count": 0
+      },
+      {
+        "date": "2026-01-31",
+        "level": 0,
+        "id": "contribution-day-component-6-16",
+        "count": 0
+      },
+      {
+        "date": "2026-02-01",
+        "level": 0,
+        "id": "contribution-day-component-0-17",
+        "count": 0
+      },
+      {
+        "date": "2026-02-02",
+        "level": 0,
+        "id": "contribution-day-component-1-17",
+        "count": 0
+      },
+      {
+        "date": "2026-02-03",
+        "level": 0,
+        "id": "contribution-day-component-2-17",
+        "count": 0
+      },
+      {
+        "date": "2026-02-04",
+        "level": 0,
+        "id": "contribution-day-component-3-17",
+        "count": 0
+      },
+      {
+        "date": "2026-02-05",
+        "level": 0,
+        "id": "contribution-day-component-4-17",
+        "count": 0
+      },
+      {
+        "date": "2026-02-06",
+        "level": 0,
+        "id": "contribution-day-component-5-17",
+        "count": 0
+      },
+      {
+        "date": "2026-02-07",
+        "level": 0,
+        "id": "contribution-day-component-6-17",
+        "count": 0
+      },
+      {
+        "date": "2026-02-08",
+        "level": 0,
+        "id": "contribution-day-component-0-18",
+        "count": 0
+      },
+      {
+        "date": "2026-02-09",
+        "level": 0,
+        "id": "contribution-day-component-1-18",
+        "count": 0
+      },
+      {
+        "date": "2026-02-10",
+        "level": 0,
+        "id": "contribution-day-component-2-18",
+        "count": 0
+      },
+      {
+        "date": "2026-02-11",
+        "level": 0,
+        "id": "contribution-day-component-3-18",
+        "count": 0
+      },
+      {
+        "date": "2026-02-12",
+        "level": 0,
+        "id": "contribution-day-component-4-18",
+        "count": 0
+      },
+      {
+        "date": "2026-02-13",
+        "level": 0,
+        "id": "contribution-day-component-5-18",
+        "count": 0
+      },
+      {
+        "date": "2026-02-14",
+        "level": 0,
+        "id": "contribution-day-component-6-18",
+        "count": 0
+      },
+      {
+        "date": "2026-02-15",
+        "level": 0,
+        "id": "contribution-day-component-0-19",
+        "count": 0
+      },
+      {
+        "date": "2026-02-16",
+        "level": 0,
+        "id": "contribution-day-component-1-19",
+        "count": 0
+      },
+      {
+        "date": "2026-02-17",
+        "level": 0,
+        "id": "contribution-day-component-2-19",
+        "count": 0
+      },
+      {
+        "date": "2026-02-18",
+        "level": 0,
+        "id": "contribution-day-component-3-19",
+        "count": 0
+      },
+      {
+        "date": "2026-02-19",
+        "level": 0,
+        "id": "contribution-day-component-4-19",
+        "count": 0
+      },
+      {
+        "date": "2026-02-20",
+        "level": 0,
+        "id": "contribution-day-component-5-19",
+        "count": 0
+      },
+      {
+        "date": "2026-02-21",
+        "level": 0,
+        "id": "contribution-day-component-6-19",
+        "count": 0
+      },
+      {
+        "date": "2026-02-22",
+        "level": 0,
+        "id": "contribution-day-component-0-20",
+        "count": 0
+      },
+      {
+        "date": "2026-02-23",
+        "level": 0,
+        "id": "contribution-day-component-1-20",
+        "count": 0
+      },
+      {
+        "date": "2026-02-24",
+        "level": 0,
+        "id": "contribution-day-component-2-20",
+        "count": 0
+      },
+      {
+        "date": "2026-02-25",
+        "level": 0,
+        "id": "contribution-day-component-3-20",
+        "count": 0
+      },
+      {
+        "date": "2026-02-26",
+        "level": 0,
+        "id": "contribution-day-component-4-20",
+        "count": 0
+      },
+      {
+        "date": "2026-02-27",
+        "level": 0,
+        "id": "contribution-day-component-5-20",
+        "count": 0
+      },
+      {
+        "date": "2026-02-28",
+        "level": 2,
+        "id": "contribution-day-component-6-20",
+        "count": 1
+      },
+      {
+        "date": "2026-03-01",
+        "level": 0,
+        "id": "contribution-day-component-0-21",
+        "count": 0
+      },
+      {
+        "date": "2026-03-02",
+        "level": 0,
+        "id": "contribution-day-component-1-21",
+        "count": 0
+      },
+      {
+        "date": "2026-03-03",
+        "level": 0,
+        "id": "contribution-day-component-2-21",
+        "count": 0
+      },
+      {
+        "date": "2026-03-04",
+        "level": 0,
+        "id": "contribution-day-component-3-21",
+        "count": 0
+      },
+      {
+        "date": "2026-03-05",
+        "level": 0,
+        "id": "contribution-day-component-4-21",
+        "count": 0
+      },
+      {
+        "date": "2026-03-06",
+        "level": 2,
+        "id": "contribution-day-component-5-21",
+        "count": 1
+      },
+      {
+        "date": "2026-03-07",
+        "level": 0,
+        "id": "contribution-day-component-6-21",
+        "count": 0
+      },
+      {
+        "date": "2026-03-08",
+        "level": 0,
+        "id": "contribution-day-component-0-22",
+        "count": 0
+      },
+      {
+        "date": "2026-03-09",
+        "level": 0,
+        "id": "contribution-day-component-1-22",
+        "count": 0
+      },
+      {
+        "date": "2026-03-10",
+        "level": 0,
+        "id": "contribution-day-component-2-22",
+        "count": 0
+      },
+      {
+        "date": "2026-03-11",
+        "level": 0,
+        "id": "contribution-day-component-3-22",
+        "count": 0
+      },
+      {
+        "date": "2026-03-12",
+        "level": 0,
+        "id": "contribution-day-component-4-22",
+        "count": 0
+      },
+      {
+        "date": "2026-03-13",
+        "level": 0,
+        "id": "contribution-day-component-5-22",
+        "count": 0
+      },
+      {
+        "date": "2026-03-14",
+        "level": 0,
+        "id": "contribution-day-component-6-22",
+        "count": 0
+      },
+      {
+        "date": "2026-03-15",
+        "level": 0,
+        "id": "contribution-day-component-0-23",
+        "count": 0
+      },
+      {
+        "date": "2026-03-16",
+        "level": 0,
+        "id": "contribution-day-component-1-23",
+        "count": 0
+      },
+      {
+        "date": "2026-03-17",
+        "level": 0,
+        "id": "contribution-day-component-2-23",
+        "count": 0
+      },
+      {
+        "date": "2026-03-18",
+        "level": 0,
+        "id": "contribution-day-component-3-23",
+        "count": 0
+      },
+      {
+        "date": "2026-03-19",
+        "level": 0,
+        "id": "contribution-day-component-4-23",
+        "count": 0
+      },
+      {
+        "date": "2026-03-20",
+        "level": 0,
+        "id": "contribution-day-component-5-23",
+        "count": 0
+      },
+      {
+        "date": "2026-03-21",
+        "level": 0,
+        "id": "contribution-day-component-6-23",
+        "count": 0
+      },
+      {
+        "date": "2026-03-22",
+        "level": 0,
+        "id": "contribution-day-component-0-24",
+        "count": 0
+      },
+      {
+        "date": "2026-03-23",
+        "level": 0,
+        "id": "contribution-day-component-1-24",
+        "count": 0
+      },
+      {
+        "date": "2026-03-24",
+        "level": 0,
+        "id": "contribution-day-component-2-24",
+        "count": 0
+      },
+      {
+        "date": "2026-03-25",
+        "level": 0,
+        "id": "contribution-day-component-3-24",
+        "count": 0
+      },
+      {
+        "date": "2026-03-26",
+        "level": 0,
+        "id": "contribution-day-component-4-24",
+        "count": 0
+      },
+      {
+        "date": "2026-03-27",
+        "level": 0,
+        "id": "contribution-day-component-5-24",
+        "count": 0
+      },
+      {
+        "date": "2026-03-28",
+        "level": 0,
+        "id": "contribution-day-component-6-24",
+        "count": 0
+      },
+      {
+        "date": "2026-03-29",
+        "level": 0,
+        "id": "contribution-day-component-0-25",
+        "count": 0
+      },
+      {
+        "date": "2026-03-30",
+        "level": 0,
+        "id": "contribution-day-component-1-25",
+        "count": 0
+      },
+      {
+        "date": "2026-03-31",
+        "level": 0,
+        "id": "contribution-day-component-2-25",
+        "count": 0
+      },
+      {
+        "date": "2026-04-01",
+        "level": 0,
+        "id": "contribution-day-component-3-25",
+        "count": 0
+      },
+      {
+        "date": "2026-04-02",
+        "level": 0,
+        "id": "contribution-day-component-4-25",
+        "count": 0
+      },
+      {
+        "date": "2026-04-03",
+        "level": 2,
+        "id": "contribution-day-component-5-25",
+        "count": 1
+      },
+      {
+        "date": "2026-04-04",
+        "level": 0,
+        "id": "contribution-day-component-6-25",
+        "count": 0
+      },
+      {
+        "date": "2026-04-05",
+        "level": 0,
+        "id": "contribution-day-component-0-26",
+        "count": 0
+      },
+      {
+        "date": "2026-04-06",
+        "level": 2,
+        "id": "contribution-day-component-1-26",
+        "count": 1
+      },
+      {
+        "date": "2026-04-07",
+        "level": 2,
+        "id": "contribution-day-component-2-26",
+        "count": 1
+      },
+      {
+        "date": "2026-04-08",
+        "level": 0,
+        "id": "contribution-day-component-3-26",
+        "count": 0
+      },
+      {
+        "date": "2026-04-09",
+        "level": 0,
+        "id": "contribution-day-component-4-26",
+        "count": 0
+      },
+      {
+        "date": "2026-04-10",
+        "level": 0,
+        "id": "contribution-day-component-5-26",
+        "count": 0
+      },
+      {
+        "date": "2026-04-11",
+        "level": 0,
+        "id": "contribution-day-component-6-26",
+        "count": 0
+      },
+      {
+        "date": "2026-04-12",
+        "level": 0,
+        "id": "contribution-day-component-0-27",
+        "count": 0
+      },
+      {
+        "date": "2026-04-13",
+        "level": 0,
+        "id": "contribution-day-component-1-27",
+        "count": 0
+      },
+      {
+        "date": "2026-04-14",
+        "level": 0,
+        "id": "contribution-day-component-2-27",
+        "count": 0
+      },
+      {
+        "date": "2026-04-15",
+        "level": 0,
+        "id": "contribution-day-component-3-27",
+        "count": 0
+      },
+      {
+        "date": "2026-04-16",
+        "level": 0,
+        "id": "contribution-day-component-4-27",
+        "count": 0
+      },
+      {
+        "date": "2026-04-17",
+        "level": 0,
+        "id": "contribution-day-component-5-27",
+        "count": 0
+      },
+      {
+        "date": "2026-04-18",
+        "level": 0,
+        "id": "contribution-day-component-6-27",
+        "count": 0
+      },
+      {
+        "date": "2026-04-19",
+        "level": 0,
+        "id": "contribution-day-component-0-28",
+        "count": 0
+      },
+      {
+        "date": "2026-04-20",
+        "level": 0,
+        "id": "contribution-day-component-1-28",
+        "count": 0
+      },
+      {
+        "date": "2026-04-21",
+        "level": 0,
+        "id": "contribution-day-component-2-28",
+        "count": 0
+      },
+      {
+        "date": "2026-04-22",
+        "level": 0,
+        "id": "contribution-day-component-3-28",
+        "count": 0
+      },
+      {
+        "date": "2026-04-23",
+        "level": 2,
+        "id": "contribution-day-component-4-28",
+        "count": 1
+      },
+      {
+        "date": "2026-04-24",
+        "level": 0,
+        "id": "contribution-day-component-5-28",
+        "count": 0
+      },
+      {
+        "date": "2026-04-25",
+        "level": 0,
+        "id": "contribution-day-component-6-28",
+        "count": 0
+      },
+      {
+        "date": "2026-04-26",
+        "level": 0,
+        "id": "contribution-day-component-0-29",
+        "count": 0
+      },
+      {
+        "date": "2026-04-27",
+        "level": 0,
+        "id": "contribution-day-component-1-29",
+        "count": 0
+      },
+      {
+        "date": "2026-04-28",
+        "level": 0,
+        "id": "contribution-day-component-2-29",
+        "count": 0
+      },
+      {
+        "date": "2026-04-29",
+        "level": 0,
+        "id": "contribution-day-component-3-29",
+        "count": 0
+      },
+      {
+        "date": "2026-04-30",
+        "level": 0,
+        "id": "contribution-day-component-4-29",
+        "count": 0
+      },
+      {
+        "date": "2026-05-01",
+        "level": 0,
+        "id": "contribution-day-component-5-29",
+        "count": 0
+      },
+      {
+        "date": "2026-05-02",
+        "level": 0,
+        "id": "contribution-day-component-6-29",
+        "count": 0
+      },
+      {
+        "date": "2026-05-03",
+        "level": 0,
+        "id": "contribution-day-component-0-30",
+        "count": 0
+      },
+      {
+        "date": "2026-05-04",
+        "level": 0,
+        "id": "contribution-day-component-1-30",
+        "count": 0
+      },
+      {
+        "date": "2026-05-05",
+        "level": 0,
+        "id": "contribution-day-component-2-30",
+        "count": 0
+      },
+      {
+        "date": "2026-05-06",
+        "level": 0,
+        "id": "contribution-day-component-3-30",
+        "count": 0
+      },
+      {
+        "date": "2026-05-07",
+        "level": 0,
+        "id": "contribution-day-component-4-30",
+        "count": 0
+      },
+      {
+        "date": "2026-05-08",
+        "level": 0,
+        "id": "contribution-day-component-5-30",
+        "count": 0
+      },
+      {
+        "date": "2026-05-09",
+        "level": 0,
+        "id": "contribution-day-component-6-30",
+        "count": 0
+      },
+      {
+        "date": "2026-05-10",
+        "level": 0,
+        "id": "contribution-day-component-0-31",
+        "count": 0
+      },
+      {
+        "date": "2026-05-11",
+        "level": 0,
+        "id": "contribution-day-component-1-31",
+        "count": 0
+      },
+      {
+        "date": "2026-05-12",
+        "level": 0,
+        "id": "contribution-day-component-2-31",
+        "count": 0
+      },
+      {
+        "date": "2026-05-13",
+        "level": 0,
+        "id": "contribution-day-component-3-31",
+        "count": 0
+      },
+      {
+        "date": "2026-05-14",
+        "level": 0,
+        "id": "contribution-day-component-4-31",
+        "count": 0
+      },
+      {
+        "date": "2026-05-15",
+        "level": 0,
+        "id": "contribution-day-component-5-31",
+        "count": 0
+      },
+      {
+        "date": "2026-05-16",
+        "level": 0,
+        "id": "contribution-day-component-6-31",
+        "count": 0
+      },
+      {
+        "date": "2026-05-17",
+        "level": 0,
+        "id": "contribution-day-component-0-32",
+        "count": 0
+      },
+      {
+        "date": "2026-05-18",
+        "level": 0,
+        "id": "contribution-day-component-1-32",
+        "count": 0
+      },
+      {
+        "date": "2026-05-19",
+        "level": 0,
+        "id": "contribution-day-component-2-32",
+        "count": 0
+      },
+      {
+        "date": "2026-05-20",
+        "level": 0,
+        "id": "contribution-day-component-3-32",
+        "count": 0
+      },
+      {
+        "date": "2026-05-21",
+        "level": 0,
+        "id": "contribution-day-component-4-32",
+        "count": 0
+      },
+      {
+        "date": "2026-05-22",
+        "level": 0,
+        "id": "contribution-day-component-5-32",
+        "count": 0
+      },
+      {
+        "date": "2026-05-23",
+        "level": 0,
+        "id": "contribution-day-component-6-32",
+        "count": 0
+      },
+      {
+        "date": "2026-05-24",
+        "level": 0,
+        "id": "contribution-day-component-0-33",
+        "count": 0
+      },
+      {
+        "date": "2026-05-25",
+        "level": 0,
+        "id": "contribution-day-component-1-33",
+        "count": 0
+      },
+      {
+        "date": "2026-05-26",
+        "level": 0,
+        "id": "contribution-day-component-2-33",
+        "count": 0
+      },
+      {
+        "date": "2026-05-27",
+        "level": 0,
+        "id": "contribution-day-component-3-33",
+        "count": 0
+      },
+      {
+        "date": "2026-05-28",
+        "level": 0,
+        "id": "contribution-day-component-4-33",
+        "count": 0
+      },
+      {
+        "date": "2026-05-29",
+        "level": 0,
+        "id": "contribution-day-component-5-33",
+        "count": 0
+      },
+      {
+        "date": "2026-05-30",
+        "level": 0,
+        "id": "contribution-day-component-6-33",
+        "count": 0
+      },
+      {
+        "date": "2026-05-31",
+        "level": 0,
+        "id": "contribution-day-component-0-34",
+        "count": 0
+      },
+      {
+        "date": "2026-06-01",
+        "level": 0,
+        "id": "contribution-day-component-1-34",
+        "count": 0
+      },
+      {
+        "date": "2026-06-02",
+        "level": 0,
+        "id": "contribution-day-component-2-34",
+        "count": 0
+      },
+      {
+        "date": "2026-06-03",
+        "level": 0,
+        "id": "contribution-day-component-3-34",
+        "count": 0
+      },
+      {
+        "date": "2026-06-04",
+        "level": 0,
+        "id": "contribution-day-component-4-34",
+        "count": 0
+      },
+      {
+        "date": "2026-06-05",
+        "level": 0,
+        "id": "contribution-day-component-5-34",
+        "count": 0
+      },
+      {
+        "date": "2026-06-06",
+        "level": 0,
+        "id": "contribution-day-component-6-34",
+        "count": 0
+      },
+      {
+        "date": "2026-06-07",
+        "level": 0,
+        "id": "contribution-day-component-0-35",
+        "count": 0
+      },
+      {
+        "date": "2026-06-08",
+        "level": 0,
+        "id": "contribution-day-component-1-35",
+        "count": 0
+      },
+      {
+        "date": "2026-06-09",
+        "level": 0,
+        "id": "contribution-day-component-2-35",
+        "count": 0
+      },
+      {
+        "date": "2026-06-10",
+        "level": 0,
+        "id": "contribution-day-component-3-35",
+        "count": 0
+      },
+      {
+        "date": "2026-06-11",
+        "level": 0,
+        "id": "contribution-day-component-4-35",
+        "count": 0
+      },
+      {
+        "date": "2026-06-12",
+        "level": 0,
+        "id": "contribution-day-component-5-35",
+        "count": 0
+      },
+      {
+        "date": "2026-06-13",
+        "level": 0,
+        "id": "contribution-day-component-6-35",
+        "count": 0
+      },
+      {
+        "date": "2026-06-14",
+        "level": 0,
+        "id": "contribution-day-component-0-36",
+        "count": 0
+      },
+      {
+        "date": "2026-06-15",
+        "level": 0,
+        "id": "contribution-day-component-1-36",
+        "count": 0
+      },
+      {
+        "date": "2026-06-16",
+        "level": 0,
+        "id": "contribution-day-component-2-36",
+        "count": 0
+      },
+      {
+        "date": "2026-06-17",
+        "level": 0,
+        "id": "contribution-day-component-3-36",
+        "count": 0
+      },
+      {
+        "date": "2026-06-18",
+        "level": 0,
+        "id": "contribution-day-component-4-36",
+        "count": 0
+      },
+      {
+        "date": "2026-06-19",
+        "level": 0,
+        "id": "contribution-day-component-5-36",
+        "count": 0
+      },
+      {
+        "date": "2026-06-20",
+        "level": 0,
+        "id": "contribution-day-component-6-36",
+        "count": 0
+      },
+      {
+        "date": "2026-06-21",
+        "level": 0,
+        "id": "contribution-day-component-0-37",
+        "count": 0
+      },
+      {
+        "date": "2026-06-22",
+        "level": 0,
+        "id": "contribution-day-component-1-37",
+        "count": 0
+      },
+      {
+        "date": "2026-06-23",
+        "level": 0,
+        "id": "contribution-day-component-2-37",
+        "count": 0
+      },
+      {
+        "date": "2026-06-24",
+        "level": 0,
+        "id": "contribution-day-component-3-37",
+        "count": 0
+      },
+      {
+        "date": "2026-06-25",
+        "level": 0,
+        "id": "contribution-day-component-4-37",
+        "count": 0
+      },
+      {
+        "date": "2026-06-26",
+        "level": 0,
+        "id": "contribution-day-component-5-37",
+        "count": 0
+      },
+      {
+        "date": "2026-06-27",
+        "level": 0,
+        "id": "contribution-day-component-6-37",
+        "count": 0
+      },
+      {
+        "date": "2026-06-28",
+        "level": 0,
+        "id": "contribution-day-component-0-38",
+        "count": 0
+      },
+      {
+        "date": "2026-06-29",
+        "level": 0,
+        "id": "contribution-day-component-1-38",
+        "count": 0
+      },
+      {
+        "date": "2026-06-30",
+        "level": 0,
+        "id": "contribution-day-component-2-38",
+        "count": 0
+      },
+      {
+        "date": "2026-07-01",
+        "level": 0,
+        "id": "contribution-day-component-3-38",
+        "count": 0
+      },
+      {
+        "date": "2026-07-02",
+        "level": 0,
+        "id": "contribution-day-component-4-38",
+        "count": 0
+      },
+      {
+        "date": "2026-07-03",
+        "level": 0,
+        "id": "contribution-day-component-5-38",
+        "count": 0
+      },
+      {
+        "date": "2026-07-04",
+        "level": 0,
+        "id": "contribution-day-component-6-38",
+        "count": 0
+      },
+      {
+        "date": "2026-07-05",
+        "level": 2,
+        "id": "contribution-day-component-0-39",
+        "count": 1
+      },
+      {
+        "date": "2026-07-06",
+        "level": 0,
+        "id": "contribution-day-component-1-39",
+        "count": 0
+      },
+      {
+        "date": "2026-07-07",
+        "level": 0,
+        "id": "contribution-day-component-2-39",
+        "count": 0
+      },
+      {
+        "date": "2026-07-08",
+        "level": 0,
+        "id": "contribution-day-component-3-39",
+        "count": 0
+      },
+      {
+        "date": "2026-07-09",
+        "level": 0,
+        "id": "contribution-day-component-4-39",
+        "count": 0
+      },
+      {
+        "date": "2026-07-10",
+        "level": 0,
+        "id": "contribution-day-component-5-39",
+        "count": 0
+      },
+      {
+        "date": "2026-07-11",
+        "level": 0,
+        "id": "contribution-day-component-6-39",
+        "count": 0
+      },
+      {
+        "date": "2026-07-12",
+        "level": 0,
+        "id": "contribution-day-component-0-40",
+        "count": 0
+      },
+      {
+        "date": "2026-07-13",
+        "level": 0,
+        "id": "contribution-day-component-1-40",
+        "count": 0
+      },
+      {
+        "date": "2026-07-14",
+        "level": 0,
+        "id": "contribution-day-component-2-40",
+        "count": 0
+      },
+      {
+        "date": "2026-07-15",
+        "level": 0,
+        "id": "contribution-day-component-3-40",
+        "count": 0
+      },
+      {
+        "date": "2026-07-16",
+        "level": 4,
+        "id": "contribution-day-component-4-40",
+        "count": 2
+      },
+      {
+        "date": "2026-07-17",
+        "level": 0,
+        "id": "contribution-day-component-5-40",
+        "count": 0
+      },
+      {
+        "date": "2026-07-18",
+        "level": 0,
+        "id": "contribution-day-component-6-40",
+        "count": 0
+      },
+      {
+        "date": "2026-07-19",
+        "level": 0,
+        "id": "contribution-day-component-0-41",
+        "count": 0
+      },
+      {
+        "date": "2026-07-20",
+        "level": 0,
+        "id": "contribution-day-component-1-41",
+        "count": 0
+      },
+      {
+        "date": "2026-07-21",
+        "level": 0,
+        "id": "contribution-day-component-2-41",
+        "count": 0
+      },
+      {
+        "date": "2026-07-22",
+        "level": 0,
+        "id": "contribution-day-component-3-41",
+        "count": 0
+      },
+      {
+        "date": "2026-07-23",
+        "level": 0,
+        "id": "contribution-day-component-4-41",
+        "count": 0
+      },
+      {
+        "date": "2026-07-24",
+        "level": 0,
+        "id": "contribution-day-component-5-41",
+        "count": 0
+      },
+      {
+        "date": "2026-07-25",
+        "level": 0,
+        "id": "contribution-day-component-6-41",
+        "count": 0
+      },
+      {
+        "date": "2026-07-26",
+        "level": 0,
+        "id": "contribution-day-component-0-42",
+        "count": 0
+      },
+      {
+        "date": "2026-07-27",
+        "level": 0,
+        "id": "contribution-day-component-1-42",
+        "count": 0
+      },
+      {
+        "date": "2026-07-28",
+        "level": 0,
+        "id": "contribution-day-component-2-42",
+        "count": 0
+      },
+      {
+        "date": "2026-07-29",
+        "level": 0,
+        "id": "contribution-day-component-3-42",
+        "count": 0
+      },
+      {
+        "date": "2026-07-30",
+        "level": 0,
+        "id": "contribution-day-component-4-42",
+        "count": 0
+      },
+      {
+        "date": "2026-07-31",
+        "level": 0,
+        "id": "contribution-day-component-5-42",
+        "count": 0
+      },
+      {
+        "date": "2026-08-01",
+        "level": 0,
+        "id": "contribution-day-component-6-42",
+        "count": 0
+      },
+      {
+        "date": "2026-08-02",
+        "level": 0,
+        "id": "contribution-day-component-0-43",
+        "count": 0
+      },
+      {
+        "date": "2026-08-03",
+        "level": 0,
+        "id": "contribution-day-component-1-43",
+        "count": 0
+      },
+      {
+        "date": "2026-08-04",
+        "level": 0,
+        "id": "contribution-day-component-2-43",
+        "count": 0
+      },
+      {
+        "date": "2026-08-05",
+        "level": 0,
+        "id": "contribution-day-component-3-43",
+        "count": 0
+      },
+      {
+        "date": "2026-08-06",
+        "level": 2,
+        "id": "contribution-day-component-4-43",
+        "count": 1
+      },
+      {
+        "date": "2026-08-07",
+        "level": 0,
+        "id": "contribution-day-component-5-43",
+        "count": 0
+      },
+      {
+        "date": "2026-08-08",
+        "level": 0,
+        "id": "contribution-day-component-6-43",
+        "count": 0
+      },
+      {
+        "date": "2026-08-09",
+        "level": 0,
+        "id": "contribution-day-component-0-44",
+        "count": 0
+      },
+      {
+        "date": "2026-08-10",
+        "level": 0,
+        "id": "contribution-day-component-1-44",
+        "count": 0
+      },
+      {
+        "date": "2026-08-11",
+        "level": 0,
+        "id": "contribution-day-component-2-44",
+        "count": 0
+      },
+      {
+        "date": "2026-08-12",
+        "level": 0,
+        "id": "contribution-day-component-3-44",
+        "count": 0
+      },
+      {
+        "date": "2026-08-13",
+        "level": 0,
+        "id": "contribution-day-component-4-44",
+        "count": 0
+      },
+      {
+        "date": "2026-08-14",
+        "level": 0,
+        "id": "contribution-day-component-5-44",
+        "count": 0
+      },
+      {
+        "date": "2026-08-15",
+        "level": 0,
+        "id": "contribution-day-component-6-44",
+        "count": 0
+      },
+      {
+        "date": "2026-08-16",
+        "level": 0,
+        "id": "contribution-day-component-0-45",
+        "count": 0
+      },
+      {
+        "date": "2026-08-17",
+        "level": 0,
+        "id": "contribution-day-component-1-45",
+        "count": 0
+      },
+      {
+        "date": "2026-08-18",
+        "level": 0,
+        "id": "contribution-day-component-2-45",
+        "count": 0
+      },
+      {
+        "date": "2026-08-19",
+        "level": 0,
+        "id": "contribution-day-component-3-45",
+        "count": 0
+      },
+      {
+        "date": "2026-08-20",
+        "level": 0,
+        "id": "contribution-day-component-4-45",
+        "count": 0
+      },
+      {
+        "date": "2026-08-21",
+        "level": 0,
+        "id": "contribution-day-component-5-45",
+        "count": 0
+      },
+      {
+        "date": "2026-08-22",
+        "level": 0,
+        "id": "contribution-day-component-6-45",
+        "count": 0
+      },
+      {
+        "date": "2026-08-23",
+        "level": 0,
+        "id": "contribution-day-component-0-46",
+        "count": 0
+      },
+      {
+        "date": "2026-08-24",
+        "level": 0,
+        "id": "contribution-day-component-1-46",
+        "count": 0
+      },
+      {
+        "date": "2026-08-25",
+        "level": 0,
+        "id": "contribution-day-component-2-46",
+        "count": 0
+      },
+      {
+        "date": "2026-08-26",
+        "level": 0,
+        "id": "contribution-day-component-3-46",
+        "count": 0
+      },
+      {
+        "date": "2026-08-27",
+        "level": 0,
+        "id": "contribution-day-component-4-46",
+        "count": 0
+      },
+      {
+        "date": "2026-08-28",
+        "level": 0,
+        "id": "contribution-day-component-5-46",
+        "count": 0
+      },
+      {
+        "date": "2026-08-29",
+        "level": 0,
+        "id": "contribution-day-component-6-46",
+        "count": 0
+      },
+      {
+        "date": "2026-08-30",
+        "level": 0,
+        "id": "contribution-day-component-0-47",
+        "count": 0
+      },
+      {
+        "date": "2026-08-31",
+        "level": 0,
+        "id": "contribution-day-component-1-47",
+        "count": 0
+      },
+      {
+        "date": "2026-09-01",
+        "level": 0,
+        "id": "contribution-day-component-2-47",
+        "count": 0
+      },
+      {
+        "date": "2026-09-02",
+        "level": 0,
+        "id": "contribution-day-component-3-47",
+        "count": 0
+      },
+      {
+        "date": "2026-09-03",
+        "level": 0,
+        "id": "contribution-day-component-4-47",
+        "count": 0
+      },
+      {
+        "date": "2026-09-04",
+        "level": 0,
+        "id": "contribution-day-component-5-47",
+        "count": 0
+      },
+      {
+        "date": "2026-09-05",
+        "level": 0,
+        "id": "contribution-day-component-6-47",
+        "count": 0
+      },
+      {
+        "date": "2026-09-06",
+        "level": 0,
+        "id": "contribution-day-component-0-48",
+        "count": 0
+      },
+      {
+        "date": "2026-09-07",
+        "level": 0,
+        "id": "contribution-day-component-1-48",
+        "count": 0
+      },
+      {
+        "date": "2026-09-08",
+        "level": 0,
+        "id": "contribution-day-component-2-48",
+        "count": 0
+      },
+      {
+        "date": "2026-09-09",
+        "level": 0,
+        "id": "contribution-day-component-3-48",
+        "count": 0
+      },
+      {
+        "date": "2026-09-10",
+        "level": 0,
+        "id": "contribution-day-component-4-48",
+        "count": 0
+      },
+      {
+        "date": "2026-09-11",
+        "level": 0,
+        "id": "contribution-day-component-5-48",
+        "count": 0
+      },
+      {
+        "date": "2026-09-12",
+        "level": 0,
+        "id": "contribution-day-component-6-48",
+        "count": 0
+      },
+      {
+        "date": "2026-09-13",
+        "level": 0,
+        "id": "contribution-day-component-0-49",
+        "count": 0
+      },
+      {
+        "date": "2026-09-14",
+        "level": 0,
+        "id": "contribution-day-component-1-49",
+        "count": 0
+      },
+      {
+        "date": "2026-09-15",
+        "level": 0,
+        "id": "contribution-day-component-2-49",
+        "count": 0
+      },
+      {
+        "date": "2026-09-16",
+        "level": 0,
+        "id": "contribution-day-component-3-49",
+        "count": 0
+      },
+      {
+        "date": "2026-09-17",
+        "level": 0,
+        "id": "contribution-day-component-4-49",
+        "count": 0
+      },
+      {
+        "date": "2026-09-18",
+        "level": 0,
+        "id": "contribution-day-component-5-49",
+        "count": 0
+      },
+      {
+        "date": "2026-09-19",
+        "level": 0,
+        "id": "contribution-day-component-6-49",
+        "count": 0
+      },
+      {
+        "date": "2026-09-20",
+        "level": 0,
+        "id": "contribution-day-component-0-50",
+        "count": 0
+      },
+      {
+        "date": "2026-09-21",
+        "level": 0,
+        "id": "contribution-day-component-1-50",
+        "count": 0
+      },
+      {
+        "date": "2026-09-22",
+        "level": 0,
+        "id": "contribution-day-component-2-50",
+        "count": 0
+      },
+      {
+        "date": "2026-09-23",
+        "level": 0,
+        "id": "contribution-day-component-3-50",
+        "count": 0
+      },
+      {
+        "date": "2026-09-24",
+        "level": 0,
+        "id": "contribution-day-component-4-50",
+        "count": 0
+      },
+      {
+        "date": "2026-09-25",
+        "level": 0,
+        "id": "contribution-day-component-5-50",
+        "count": 0
+      },
+      {
+        "date": "2026-09-26",
+        "level": 0,
+        "id": "contribution-day-component-6-50",
+        "count": 0
+      },
+      {
+        "date": "2026-09-27",
+        "level": 0,
+        "id": "contribution-day-component-0-51",
+        "count": 0
+      },
+      {
+        "date": "2026-09-28",
+        "level": 0,
+        "id": "contribution-day-component-1-51",
+        "count": 0
+      },
+      {
+        "date": "2026-09-29",
+        "level": 0,
+        "id": "contribution-day-component-2-51",
+        "count": 0
+      },
+      {
+        "date": "2026-09-30",
+        "level": 0,
+        "id": "contribution-day-component-3-51",
+        "count": 0
+      },
+      {
+        "date": "2026-10-01",
+        "level": 0,
+        "id": "contribution-day-component-4-51",
+        "count": 0
+      },
+      {
+        "date": "2026-10-02",
+        "level": 0,
+        "id": "contribution-day-component-5-51",
+        "count": 0
+      },
+      {
+        "date": "2026-10-03",
+        "level": 0,
+        "id": "contribution-day-component-6-51",
+        "count": 0
+      },
+      {
+        "date": "2026-10-04",
+        "level": 0,
+        "id": "contribution-day-component-0-52",
+        "count": 0
+      },
+      {
+        "date": "2026-10-05",
+        "level": 0,
+        "id": "contribution-day-component-1-52",
+        "count": 0
+      },
+      {
+        "date": "2026-10-06",
+        "level": 0,
+        "id": "contribution-day-component-2-52",
+        "count": 0
+      },
+      {
+        "date": "2026-10-07",
+        "level": 0,
+        "id": "contribution-day-component-3-52",
+        "count": 0
+      },
+      {
+        "date": "2026-10-08",
+        "level": 0,
+        "id": "contribution-day-component-4-52",
+        "count": 0
+      }
+    ],
+    "max": 2,
+    "active_days": 10
+  },
+  "stale": [
+    "user(403 on https://api.github.com/users/lenyanjgk)",
+    "repos(403 on https://api.github.com/users/lenyanjgk/repos?per_page=100&sort=pushed)"
+  ]
+}
