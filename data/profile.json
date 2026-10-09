@@ -1,206 +1,208 @@
 {
-  "generated_at": "2026-10-08T12:45:30Z",
+  "generated_at": "2026-10-09T03:11:13Z",
   "user": {
     "login": "lenyanjgk",
-    "avatar": "https://avatars.githubusercontent.com/u/lenyanjgk",
+    "avatar": "https://avatars.githubusercontent.com/u/128200330?v=4",
     "followers": 14,
     "following": 1,
     "public_repos": 15,
     "created_at": "2023-03-18T02:22:43Z",
     "location": "china guangzhou",
-    "blog": "",
-    "bio": "Java 全栈工程师，热爱编程，专注 LeetCode 算法题解与项目分享。"
+    "blog": "3482565966@qq.com",
+    "bio": "👋 Hi, I’m LenYan Java 全栈工程师,热爱编程,专注LeetCode算法题解与项目分享。 📊 GitHub：lenyanjgk\r\n📚 CSDN：lenyan~\r\n📧 QQ：3482565966 \r\n👭 微信：lenyanAK\r\n🎯 累计 200+ commits，30+ sta"
   },
   "repos": [
     {
       "name": "len-ai-agent",
+      "desc": "基于 Spring Boot 3.4.5 + Java 21 + Spring Al + LangChain4j + DashScope + Ollama 的智能AI交互系统🤖实战项目，适用于AI应用开发、智能体构建等场景。项目从基础模型调用到RAG知识库问答📚再到工具规划与MCP服务集成，完整覆盖了Al Agent🧠的核心技术，包括多模型接入、上下文记忆、ReAct智能规划、多模态支持🖼️、自定义工具开发等解决方案。",
       "lang": "Java",
       "stars": 130,
       "forks": 25,
       "license": null,
-      "pushed_at": "2025-06-22T00:00:00Z",
-      "topics": [
-        "java",
-        "spring-boot",
-        "spring-ai",
-        "ai-agent",
-        "llm"
-      ],
-      "desc": "基于 Spring Boot 3.4.5 + Java 21 + Spring AI 构建的智能体平台",
       "url": "https://github.com/lenyanjgk/len-ai-agent",
-      "langs": {},
+      "topics": [],
+      "pushed_at": "2025-07-07T16:04:44Z",
+      "langs": {
+        "Java": 305855,
+        "Vue": 103785,
+        "JavaScript": 4093,
+        "CSS": 2594,
+        "HTML": 608
+      },
       "empty": false
     },
     {
       "name": "lendada",
+      "desc": "🚀 基于 Vue 3 + Spring Boot + Redis + 🤖 AI + ⚡ RxJava + 📡 SSE 的高并发答题平台，适用于教育平台、企业培训、互动社区等场景。项目从基础的MBTI性格测试小程序开发，到Web端答题应用平台的构建，再到AI智能题目生成与答案评估的集成，最终实现多角度系统优化，完整覆盖了答题系统的核心技术，包括Caffeine多级缓存策略、响应式编程削峰、分布式数据库分片、分布式锁幂等设计、SSE实时通信等解决方案。",
       "lang": "Java",
       "stars": 19,
       "forks": 0,
       "license": null,
-      "pushed_at": "2025-05-01T00:00:00Z",
-      "topics": [
-        "vue3",
-        "spring-boot",
-        "redis",
-        "ai",
-        "exam"
-      ],
-      "desc": "基于 Vue 3 + Spring Boot + Redis + AI 的智慧答题平台",
       "url": "https://github.com/lenyanjgk/lendada",
-      "langs": {},
+      "topics": [],
+      "pushed_at": "2026-07-05T04:36:18Z",
+      "langs": {
+        "Java": 236143,
+        "Vue": 96565,
+        "TypeScript": 49513,
+        "FreeMarker": 26131,
+        "HTML": 1258,
+        "SCSS": 761,
+        "JavaScript": 419,
+        "Dockerfile": 418
+      },
       "empty": false
     },
     {
       "name": "ClaudeCode",
+      "desc": "ClaudeCode 知识学习文档",
       "lang": "HTML",
       "stars": 6,
       "forks": 1,
       "license": null,
-      "pushed_at": "2026-09-01T00:00:00Z",
-      "topics": [
-        "claude-code",
-        "docs"
-      ],
-      "desc": "ClaudeCode 知识学习文档",
       "url": "https://github.com/lenyanjgk/ClaudeCode",
-      "langs": {},
+      "topics": [],
+      "pushed_at": "2026-07-16T07:11:24Z",
+      "langs": {
+        "HTML": 31539
+      },
       "empty": false
     },
     {
       "name": "lenrpc",
+      "desc": "基于 Vert.x + Java 8 + YAML/Properties 配置 + 异步网络通信的轻量级 RPC 框架实战项目 🚀，适用于分布式服务架构、远程接口调用等场景 💼。项目从基础服务注册发现到高性能网络传输，再到配置动态更新与负载均衡策略 ⚡，完整覆盖了 RPC 框架的核心技术，包括多格式配置支持 📄、环境隔离 🌍、自动重载 🔄、服务代理 🎯、序列化机制等关键特性 🔧。",
       "lang": "Java",
       "stars": 2,
       "forks": 0,
       "license": null,
-      "pushed_at": "2025-03-10T00:00:00Z",
-      "topics": [
-        "rpc",
-        "vertx",
-        "java",
-        "load-balance",
-        "service-discovery"
-      ],
-      "desc": "基于 Vert.x + Java 8 的轻量级 RPC 框架",
       "url": "https://github.com/lenyanjgk/lenrpc",
-      "langs": {},
+      "topics": [],
+      "pushed_at": "2025-03-10T14:56:41Z",
+      "langs": {
+        "Java": 33166
+      },
       "empty": false
     },
     {
-      "name": "leetcode-solution",
-      "lang": "Java",
-      "stars": 1,
-      "forks": 1,
-      "license": null,
-      "pushed_at": "2025-08-06T00:00:00Z",
-      "topics": [
-        "leetcode",
-        "algorithm",
-        "java",
-        "data-structure"
-      ],
-      "desc": "Leetcode Solution lenyan 由 lenyan 打造的算法题解仓库",
-      "url": "https://github.com/lenyanjgk/leetcode-solution",
-      "langs": {},
-      "empty": false
-    },
-    {
-      "name": "zhidangtong",
+      "name": "lenyanjgk",
+      "desc": "👋 Hi, I’m LenYan Java 全栈工程师热爱编程，专注LeetCode算法题解与开源分享。 📊 GitHub：lenyanjgk 📚 CSDN：LenYan 📧 QQ：3482565966 🎯 累计 221 commits，25 stars；Java 67%，Vue/TS 为辅。 🌟 目标：写出无 bug 的优雅代码，持续分享，携手成长！",
       "lang": "Python",
       "stars": 1,
       "forks": 0,
       "license": null,
-      "pushed_at": "2026-04-07T00:00:00Z",
-      "topics": [
-        "rag",
-        "langgraph",
-        "fastapi",
-        "llm",
-        "knowledge-base"
-      ],
-      "desc": "智档通：基于 LangGraph+FastAPI 构建的企业级 RAG 知识库",
-      "url": "https://github.com/lenyanjgk/zhidangtong",
-      "langs": {},
+      "url": "https://github.com/lenyanjgk/lenyanjgk",
+      "topics": [],
+      "pushed_at": "2026-10-09T03:11:01Z",
+      "langs": {
+        "Python": 99594
+      },
       "empty": false
     },
     {
-      "name": "cloudmusic",
-      "lang": "JavaScript",
+      "name": "zhidangtong",
+      "desc": "智档通：基于 LangGraph+FastAPI 构建的企业级 RAG 知识库系统，支持多模态文档解析、双向量混合检索、多路召回融合重排序，提供流式文档智能问答。",
+      "lang": "Python",
       "stars": 1,
       "forks": 0,
       "license": null,
-      "pushed_at": "2024-11-20T00:00:00Z",
-      "topics": [
-        "wechat-miniprogram",
-        "cloud-development",
-        "music"
-      ],
-      "desc": "基于微信小程序框架 + 云开发技术的音乐应用",
-      "url": "https://github.com/lenyanjgk/cloudmusic",
-      "langs": {},
-      "empty": false
-    },
-    {
-      "name": "cat-ai-robot",
-      "lang": "Vue",
-      "stars": 1,
-      "forks": 1,
-      "license": null,
-      "pushed_at": "2026-07-16T00:00:00Z",
-      "topics": [
-        "vue",
-        "ai",
-        "roleplay"
-      ],
-      "desc": "AI 角色扮演网页开发仓库",
-      "url": "https://github.com/lenyanjgk/cat-ai-robot",
-      "langs": {},
+      "url": "https://github.com/lenyanjgk/zhidangtong",
+      "topics": [],
+      "pushed_at": "2026-08-06T11:59:35Z",
+      "langs": {
+        "Python": 314791,
+        "HTML": 74623
+      },
       "empty": false
     },
     {
       "name": "DesignPattern",
-      "lang": "Java",
+      "desc": "设计模式学习",
+      "lang": "",
       "stars": 1,
       "forks": 0,
       "license": null,
-      "pushed_at": "2024-05-01T00:00:00Z",
-      "topics": [
-        "design-pattern",
-        "java"
-      ],
-      "desc": "设计模式学习",
       "url": "https://github.com/lenyanjgk/DesignPattern",
+      "topics": [],
+      "pushed_at": "2026-03-06T01:54:41Z",
       "langs": {},
+      "empty": true
+    },
+    {
+      "name": "cat-ai-robot",
+      "desc": "cat-ai-robot：AI 角色扮演网页开发仓库。支持搜索角色，实现语音聊天，搭载角色专属技能。基于 LLM、语音识别与 TTS 构建，无第三方 Agent 依赖，专注沉浸式角色互动体验。",
+      "lang": "Vue",
+      "stars": 1,
+      "forks": 1,
+      "license": null,
+      "url": "https://github.com/lenyanjgk/cat-ai-robot",
+      "topics": [],
+      "pushed_at": "2025-09-28T15:58:04Z",
+      "langs": {
+        "Vue": 126277,
+        "Java": 105805,
+        "JavaScript": 12135,
+        "CSS": 357,
+        "HTML": 325
+      },
+      "empty": false
+    },
+    {
+      "name": "cloudmusic",
+      "desc": "基于微信小程序框架 + 云开发技术的音乐应用🎵，提供在线播放、歌单管理、排行榜及运动模式功能。采用WXML/WXSS + JavaScript技术栈，集成个性化推荐算法，支持歌词同步显示与专辑详情查看🎧。打造沉浸式音乐体验，为用户提供全方位的音乐服务🎶。",
+      "lang": "JavaScript",
+      "stars": 1,
+      "forks": 0,
+      "license": null,
+      "url": "https://github.com/lenyanjgk/cloudmusic",
+      "topics": [],
+      "pushed_at": "2025-08-21T03:16:05Z",
+      "langs": {
+        "JavaScript": 138312
+      },
+      "empty": false
+    },
+    {
+      "name": "leetcode-solution",
+      "desc": "📘 Leetcode Solution lenyan   由 lenyan 打造的算法题解仓库，专注用 Java 攻克 LeetCode 🧩。代码按题目分文件，注释详尽，配套文档与单元测试俱全，支持 Maven 一键构建。欢迎 Fork & PR 🤝，一起刷题成长！",
+      "lang": "Java",
+      "stars": 1,
+      "forks": 1,
+      "license": null,
+      "url": "https://github.com/lenyanjgk/leetcode-solution",
+      "topics": [],
+      "pushed_at": "2025-07-30T16:59:53Z",
+      "langs": {
+        "Java": 253467
+      },
       "empty": false
     },
     {
       "name": "Warm-delivery-learning",
+      "desc": "基于 Vue.js + Spring Boot + Redis + 微信小程序+Nginx的餐饮外卖系统🍜，提供管理端💻与用户端📱功能。采用JWT身份验证、Redis缓存、WebSocket实时通信、Nginx反向代理等技术，实现餐厅数据管理、在线点餐、订单处理等功能，支持高并发场景🚀。",
       "lang": "Java",
       "stars": 1,
       "forks": 0,
       "license": null,
-      "pushed_at": "2024-08-01T00:00:00Z",
-      "topics": [
-        "vue",
-        "spring-boot",
-        "wechat-miniprogram"
-      ],
-      "desc": "基于 Vue.js + Spring Boot + Redis + 微信小程序 + Nginx 的外卖项目",
       "url": "https://github.com/lenyanjgk/Warm-delivery-learning",
-      "langs": {},
+      "topics": [],
+      "pushed_at": "2025-03-08T13:31:37Z",
+      "langs": {
+        "Java": 91357
+      },
       "empty": false
     },
     {
       "name": "lenyan-skills",
+      "desc": "lenyan使用的skills备份",
       "lang": "",
       "stars": 0,
       "forks": 0,
       "license": null,
-      "pushed_at": "2026-02-28T00:00:00Z",
-      "topics": [],
-      "desc": "lenyan 使用的 skills 备份",
-      "empty": true,
       "url": "https://github.com/lenyanjgk/lenyan-skills",
-      "langs": {}
+      "topics": [],
+      "pushed_at": "2026-04-23T06:27:35Z",
+      "langs": {},
+      "empty": true
     }
   ],
   "contributions": {
@@ -2419,13 +2421,15 @@
         "level": 0,
         "id": "contribution-day-component-4-52",
         "count": 0
+      },
+      {
+        "date": "2026-10-09",
+        "level": 0,
+        "id": "contribution-day-component-5-52",
+        "count": 0
       }
     ],
     "max": 2,
     "active_days": 10
-  },
-  "stale": [
-    "user(403 on https://api.github.com/users/lenyanjgk)",
-    "repos(403 on https://api.github.com/users/lenyanjgk/repos?per_page=100&sort=pushed)"
-  ]
+  }
 }
